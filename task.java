@@ -7,6 +7,7 @@ public class task {
     }
 
     public boolean isWellSorted(String[] sequence) {
+
         return false;
     }
 }
